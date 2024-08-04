@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaratonaDeProgramacaointerfatecs2024", "MaratonaDeProgramacaointerfatecs2024\MaratonaDeProgramacaointerfatecs2024.csproj", "{3EDDA1C5-4C11-43CF-999E-FD29302E1A0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EDDA1C5-4C11-43CF-999E-FD29302E1A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EDDA1C5-4C11-43CF-999E-FD29302E1A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EDDA1C5-4C11-43CF-999E-FD29302E1A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EDDA1C5-4C11-43CF-999E-FD29302E1A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F8B09D9-1743-484F-A5AE-378EB2E164F3}
+	EndGlobalSection
+EndGlobal
